@@ -1,0 +1,25 @@
+
+.bg-greenlight {
+	background-color: #e5383b;
+	text-align: center;
+	color: white;
+}
+.card-hover:hover {
+	background-color: #e5383b;
+}
+input:invalid {
+	border: red solid 1px;
+}
+.firma {
+	text-align: center;
+}
+footer {
+	background-color: #4a4e69;
+	color: #d9d9d9;
+}
+a.links_footer, a.links_footer:visited {
+	color: #d9d9d9;
+}
+a:visited {
+	color: inherit;
+}
